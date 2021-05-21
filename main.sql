@@ -1097,3 +1097,5 @@ SELECT name,
   FROM teacher;
 
 /* 9 Self join */
+
+
